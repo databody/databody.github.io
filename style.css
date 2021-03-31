@@ -27,7 +27,13 @@ input{
 .btn{
   filter: drop-shadow(7px 7px 4px #aaa);
 }
+.subdued{
+  filter: grayscale(100%);
+}
+.subdued:hover{
+  filter: grayscale(0%);
 
+}
 .breadcrumb, .btn {
   display:block;
   background-color: black;

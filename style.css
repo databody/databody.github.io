@@ -16,7 +16,19 @@ hr{
   color:black;
 }
 
-.breadcrumb {
+input{
+  border:none;
+  color:#fff;
+  background-color: #aaa;
+  padding:5px;
+  margin-top:2px;
+  margin-bottom:2px;
+}
+.btn{
+  filter: drop-shadow(7px 7px 4px #aaa);
+}
+
+.breadcrumb, .btn {
   display:block;
   background-color: black;
   color:white;

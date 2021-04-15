@@ -77,3 +77,8 @@ input{
     width:100%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
+
+
+.grid img{
+  width:33%;
+}
